@@ -22,6 +22,7 @@ Skribbl is a multiplayer game where players guess a random image drawn by one of
     ```bash
     cd skribbl
     ```
+    - JUST RUN `npm start` or
 
 3. **Install dependencies for the client:**
 
